@@ -100,6 +100,10 @@ int main(int argc, char *argv[]) {
 ## OUTPUT
 
 
+<img width="371" height="375" alt="Screenshot 2025-11-06 134834" src="https://github.com/user-attachments/assets/8a12bc29-6f95-4f12-a861-2a6b69992182" />
+
+<img width="587" height="212" alt="Screenshot 2025-11-06 134942" src="https://github.com/user-attachments/assets/1069e609-217d-4ce2-a197-f94e0965dd90" />
+
 
 
 # RESULT:
